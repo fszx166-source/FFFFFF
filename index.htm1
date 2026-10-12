@@ -1,8 +1,4 @@
-.start {
-  background: white;
-  color: black;
-  font-size: 18px;
-  padding: 15px;
-  border-radius: 12px;
-  width: 80%;
-}
+<h1>مرحبا يا أبو بحر</h1>
+<p style="color: red;">منور بيوزرات ابو بحر</p>
+<button>يوزرات ابو بحر</button>
+<button style="font-size: 25px;">يوزرات ابو بحر</button>
